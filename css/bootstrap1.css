@@ -1,0 +1,50 @@
+.row{
+  padding :20px
+}
+#navBar
+{
+  background-color:#3b5998 !important;
+}
+#navBar ul
+{
+  background-color:#73478A !important;
+}
+#navBar a
+{
+  color:white !important;
+}
+
+#container{
+  background-color: #dbe5e6;
+}
+#cotedroit{
+  background-color: white;
+}
+textarea{
+  margin-left:25px;
+  width:95%;
+}
+#image{
+  margin-left:10px;
+}
+
+#grey{
+background-color:#73478A;
+margin-left:25px;
+margin-top:20px;
+
+}
+.vert{
+  background-color:#9470A7;
+  margin-top:20px;
+  margin-left:25px;
+}
+#footerList
+{
+  font-size:2em;
+  list-style:none;
+}
+#footerList li
+{
+  display:inline-block;
+}
